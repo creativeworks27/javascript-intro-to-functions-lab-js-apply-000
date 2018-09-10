@@ -19,6 +19,7 @@ function logWhisper(string)
 var FGH = string.toLowerCase();
 console.log(FGH); 
 }
+
 function sayHiToGrandma(string)
 
   const lowercase = "hello"
