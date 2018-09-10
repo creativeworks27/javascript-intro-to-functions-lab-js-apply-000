@@ -30,10 +30,10 @@ function sayHiToGrandma(string)
 }
 const uppercase= 'HELLO'
   if (string == uppercase)
-    return ("YES INDEED!")
-   const stringaux = "I love you, Grandma."
+  return ("YES INDEED!")
+  const stringaux = "I love you, Grandma."
   if (stringaux == string)
-    return ("I love you, too.")
+  return ("I love you, too.")
 }
 
 
