@@ -28,5 +28,12 @@ function sayHiToGrandma(string)
   var abc = "I can't hear you!"
   return (abc)
 }
+const uppercase= 'HELLO'
+  if (string == uppercase)
+    return ("YES INDEED!")
+   const stringaux = "I love you, Grandma."
+  if (stringaux == string)
+    return ("I love you, too.")
+}
 
 
