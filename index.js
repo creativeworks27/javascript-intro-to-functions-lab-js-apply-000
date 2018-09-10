@@ -20,9 +20,12 @@ var FGH = string.toLowerCase();
 console.log(FGH); 
 }
 function sayHiToGrandma(string)
-{
-  const lowercase = "Hello";
-  if (string == lowercase)
+
+  const lCase = "Hello";
+  if (string == lCase)
+  {
+    
+  
 }
 
 
