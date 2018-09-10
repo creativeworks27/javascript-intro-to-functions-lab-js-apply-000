@@ -21,10 +21,10 @@ console.log(FGH);
 }
 function sayHiToGrandma(string)
 
-  const lCase = "Hello";
+  const lCase = "hello";
   if (string == lCase)
   {
-    
+    var abc == I
   
 }
 
