@@ -12,6 +12,6 @@ return string.toLowerCase();
 function logShout(string)
 
 {
-var abc = string.toUpperCase;
+var abc = string.toUpperCase();
 console.log(abc); 
 }
