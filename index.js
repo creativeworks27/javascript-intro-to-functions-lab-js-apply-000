@@ -10,5 +10,5 @@ function logShout(string)
 {
 console.log.string.toUpperCase();
  
-console.log.restore();
+console.log.restore()
 }
