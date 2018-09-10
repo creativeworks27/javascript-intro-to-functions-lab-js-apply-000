@@ -16,6 +16,6 @@ console.log(abc);
 }
 function logShout(string)   
   {
-var abc = string.toLowerCase();
-console.log(abc); 
+var FGH = string.toLowerCase();
+console.log(FGH); 
 }
