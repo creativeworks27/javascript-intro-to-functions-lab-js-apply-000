@@ -9,7 +9,7 @@ function whisper(string)
 return string.toLowerCase();
 }
 
-var logShout = 
+var sayHiToGrandma = "i love you grandma.";
 function logShout(string) 
 {
 console.log.string.toUpperCase();
