@@ -10,7 +10,7 @@ return string.toLowerCase();
 }
 
 function logShout(string)
-
+function sayHiToGrandma(string)
 {
 console.log;
 
