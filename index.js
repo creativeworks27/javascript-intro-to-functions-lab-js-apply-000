@@ -9,8 +9,8 @@ function whisper(string)
 return string.toLowerCase();
 }
 
-function sayHiToGrandma(string)
+function logShout(string)
 
 {
-console.log.string.toUpperCase();
+console.log(string).toUpperCase();
 }
