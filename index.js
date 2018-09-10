@@ -21,7 +21,7 @@ console.log(FGH);
 }
 function sayHiToGrandma(string)
 {
-  
+  var abc = string.lowerCase();
   
 }
 
