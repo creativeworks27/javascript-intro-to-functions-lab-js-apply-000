@@ -22,7 +22,7 @@ console.log(FGH);
 function sayHiToGrandma(string)
 {
   const lowercase = "Hello";
-  if 
+  if (string == lowercase)
 }
 
 
